@@ -9,7 +9,7 @@ This repository contains the computational pipeline and empirical analyses devel
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Alzheimer's Disease is characterized by complex interactions between gene dysregulation and neuronal dysfunction. This project bridges molecular genetics and neurophysiology through a four-stage computational approach:
 
@@ -20,7 +20,7 @@ Alzheimer's Disease is characterized by complex interactions between gene dysreg
 
 ---
 
-## 🔬 Key Findings & Results
+## Key Findings & Results
 
 ### 1. Differential Gene Expression Analysis
 Statistically significant expression shifts were observed across the target gene panel ($p < 0.001$):
@@ -36,7 +36,7 @@ Fast Fourier Transform ($\text{rfft}$) resolved discrete spectral peaks at **$10
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 Generated figures illustrating key analytical stages:
 
@@ -47,7 +47,7 @@ Generated figures illustrating key analytical stages:
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 1. **Clone the Repository:**
    ```bash
