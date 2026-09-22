@@ -1,4 +1,4 @@
-# 🧬 Multi-Omics and Neuronal Dynamics Analysis in Alzheimer's Disease
+# Multi-Omics and Neuronal Dynamics Analysis in Alzheimer's Disease
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Biopython](https://img.shields.io/badge/Biopython-1.88-green.svg)
